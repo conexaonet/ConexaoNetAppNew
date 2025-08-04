@@ -1,0 +1,34 @@
+title: ConexaoNetAppNew - Política de Privacidade
+description: Política de Privacidade do aplicativo ConexaoNetAppNew
+author: Conexão Net
+email: noc@conexaonet.com.br
+
+# Configurações do tema
+theme: jekyll-theme-cayman
+# Ou use um tema personalizado
+# remote_theme: pages-themes/cayman@v0.2.0
+
+# Configurações de URL
+url: "https://seu-usuario.github.io/ConexaoNetAppNew"
+baseurl: "/ConexaoNetAppNew"
+
+# Configurações de SEO
+lang: pt-BR
+charset: utf-8
+
+# Configurações de navegação
+show_downloads: false
+
+# Configurações de cores personalizadas
+color_scheme: light
+
+# Configurações de plugins
+plugins:
+  - jekyll-remote-theme
+
+# Configurações de metadados
+google_analytics: # Seu código do Google Analytics
+
+# Configurações de redes sociais
+github_username: seu-usuario
+twitter_username: conexaonet 

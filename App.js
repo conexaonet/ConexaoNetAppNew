@@ -10,6 +10,7 @@ import DashboardScreen from './src/screens/DashboardScreen';
 import FaturasScreen from './src/screens/FaturasScreen';
 import FaturaDetailScreen from './src/screens/FaturaDetailScreen';
 import WifiConfigScreen from './src/screens/WifiConfigScreen';
+import PrivacyPolicyScreen from './src/screens/PrivacyPolicyScreen';
 
 const Stack = createStackNavigator();
 
@@ -53,6 +54,11 @@ export default function App() {
             <Stack.Screen
               name="WifiConfig"
               component={WifiConfigScreen}
+              options={{ title: '' }}
+            />
+            <Stack.Screen
+              name="PrivacyPolicy"
+              component={PrivacyPolicyScreen}
               options={{ title: '' }}
             />
           </Stack.Navigator>
