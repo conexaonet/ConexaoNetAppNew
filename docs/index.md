@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Política de Privacidade - ConexaoNetAppNew
+title: Política de Privacidade - ConexaoGO
 ---
 
-# Política de Privacidade - Conexao Net Telecom
+# Política de Privacidade - ConexaoGO
 
 **Última atualização:** Janeiro de 2025
 
 ## 1. Introdução
 
-A Conexão Net ("nós", "nosso", "nossa") respeita sua privacidade e está comprometida em proteger seus dados pessoais. Esta Política de Privacidade explica como coletamos, usamos, armazenamos e protegemos suas informações quando você utiliza nosso aplicativo Conexao Net Telecom
+A Conexão Net ("nós", "nosso", "nossa") respeita sua privacidade e está comprometida em proteger seus dados pessoais. Esta Política de Privacidade explica como coletamos, usamos, armazenamos e protegemos suas informações quando você utiliza nosso aplicativo ConexaoGO
 
 ## 2. Informações que Coletamos
 
